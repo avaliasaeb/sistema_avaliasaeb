@@ -1,2 +1,0 @@
-# gabarita
- Sistema gabarita
